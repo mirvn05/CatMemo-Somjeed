@@ -1,0 +1,6 @@
+{
+  "name": "MeowMinder",
+  "description": "A cute Note & Reminder app with an interactive Cat Mascot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
